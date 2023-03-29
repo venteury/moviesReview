@@ -1,0 +1,18 @@
+.movie{
+    background-color:#93BFCF;
+    padding: 8px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    margin: 10px;
+    width: 20%;
+}
+
+.movie img{
+    width: 250px;
+    height: auto;
+}
+
+p{
+    font-weight: bold;
+    margin-top: 2px;
+}
